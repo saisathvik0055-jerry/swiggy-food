@@ -1,1 +1,1 @@
-# swiggy-food
+# foodie-app
